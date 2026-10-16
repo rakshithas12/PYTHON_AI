@@ -13,6 +13,7 @@ Checked against the supplied Python Project Assignment PDF.
 - [x] Input validation and readable terminal output are implemented.
 - [x] README, requirements, project documentation draft, tests, and GitHub Actions workflow are included.
 - [x] Local test run: 15 passed.
+- [x] Optional Streamlit dashboard and Free Render Blueprint added for the requested live demo.
 - [x] No real student personal data is included.
 
 ## Student actions before submission
@@ -24,6 +25,8 @@ Checked against the supplied Python Project Assignment PDF.
 - [ ] Create a separate GitHub repository for this project, push the complete folder, and add its URL to `PROJECT_DOCUMENTATION.md`.
 - [ ] Open the repository and verify that the main program, dataset, README, and documentation are visible.
 - [ ] Submit the repository URL through the EWB Google Form supplied by your trainer.
+- [ ] If your evaluator requires a live URL, deploy the Blueprint to Render's Free plan and test it. Render Free services can sleep when idle; the assignment itself does not require hosting.
+- [ ] If deployed, add the working Render URL to this documentation and provide it to the evaluator.
 - [ ] Ask your trainer about late submission; the PDF deadline is 15 October 2026.
 
 The PDF labels Ollama/local AI as optional, so it is not required for the core assignment.

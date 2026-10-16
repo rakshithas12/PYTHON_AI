@@ -15,4 +15,5 @@ jobs:
           cache: pip
       - run: python -m pip install -r requirements-dev.txt
       - run: python -m pytest -q
+      - run: python -m py_compile main.py app.py student_performance/analysis.py
       - run: python main.py
