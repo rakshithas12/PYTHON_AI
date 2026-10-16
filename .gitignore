@@ -1,0 +1,30 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Test and coverage output
+.pytest_cache/
+.pytest-tmp/
+pytest-of-*/
+.coverage
+htmlcov/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Generated databases and exports
+*.db
+*.sqlite
+*.sqlite3
+processed_results.csv
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
